@@ -1,1 +1,1 @@
-Full stack social median android app using FireBase Database.
+Full stack social-media android app using FireBase Database.
